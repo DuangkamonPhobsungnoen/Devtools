@@ -1,7 +1,7 @@
 # Devtools
 
 
-### github for learning 
+### Github for learning 
 >>
 >https://github.com/Tuchsanai/DevTools
 >>
@@ -21,3 +21,7 @@
 >git config --global --unset user.email
 >>
 >git config --global --unset credential.username
+>>
+### Week 2 Getting Started with Git
+>>
+>git add =>
