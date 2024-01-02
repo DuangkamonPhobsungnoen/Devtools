@@ -1,17 +1,23 @@
 # Devtools
 
-git config --global user.name "DuangkamonPhobsungnoen"
+
+### github for learning 
 >>
-git config --global user.email "64070149@kmitl.ac.th"
+>https://github.com/Tuchsanai/DevTools
 >>
-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
+### How to connect to github
 >>
-https://github.com/Tuchsanai/DevTools
+>git config --global user.name "DuangkamonPhobsungnoen"
 >>
-git config --global --unset user.name
+>git config --global user.email "64070149@kmitl.ac.th"
 >>
-git config --global --unset user.email
->>>>
-git config --global --unset credential.username
+### Code
+>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
 >>
-git config
+### Delete Config 
+>>
+>git config --global --unset user.name
+>>
+>git config --global --unset user.email
+>>
+>git config --global --unset credential.username
