@@ -18,7 +18,7 @@ pipeline {
             }
         }
 
-        stage('Run Docker on Remote Server 1') {
+        stage('Run Docker on Remote Server 2') {
             steps {
                 // Uses the SSH Agent plugin to setup SSH credentials.
                 sshagent([SSH_CREDENTIALS]) {
