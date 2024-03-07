@@ -19,7 +19,7 @@ pipeline {
 
         stage('Build Docker Image') {
             steps {
-                    // Build the Docker image
+                    // Build the Docker image 7
                     
                     dir('./week13_lab3/03_Github_webhook') {
                        sh 'echo "Running in $(pwd)"'
