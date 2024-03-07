@@ -5,6 +5,8 @@ pipeline {
         // Define variables
         DOCKER_IMAGE       = 'duangkamon/fastapi-webhook:latest'
         DOCKER_CREDENTIALS = credentials('dockerhub')
+        $DOCKER_CREDENTIALS_USR = duangkamon
+        $DOCKER_CREDENTIALS_PSW = dckr_pat_d3chHW7dc_Bt5r_9az2bKIHzy-g
     }
 
     stages {
